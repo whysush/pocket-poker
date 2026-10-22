@@ -1,0 +1,8 @@
+{
+  "appId": "com.pocketpoker.app",
+  "appName": "Pocket Poker",
+  "webDir": "dist",
+  "backgroundColor": "#101211",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}
